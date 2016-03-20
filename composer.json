@@ -1,0 +1,20 @@
+{
+    "name": "clarkeash/roman-numerals-kata",
+    "require-dev": {
+        "phpspec/phpspec": "^2.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ashley Clarke",
+            "email": "me@ashleyclarke.me"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    }
+}
